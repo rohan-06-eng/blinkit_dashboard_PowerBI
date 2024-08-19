@@ -2,7 +2,14 @@
 
 ### Description:
 
-The _BlinkIt Dashboard_ is an interactive and visually appealing business intelligence tool designed for analyzing sales, ratings, item categories, and outlet performance for India's premier last-minute shopping app, BlinkIt. This dashboard offers a comprehensive overview of critical business metrics, providing decision-makers with the insights needed to optimize operations, understand customer preferences, and drive strategic growth.
+To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations.
+
+KPI’s Requirements:
+Total Sales: The overall revenue generated from all items sold.
+Average Sales: The average revenue per sale.
+Number of Items: The total count of different items sold.
+Average Rating: The average customer rating for items sold.
+
 
 ### Features:
 
