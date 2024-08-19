@@ -1,5 +1,8 @@
 ### Project Name: _BlinkIt Dashboard: India's Last Minute App Analytics_
 
+### Video link:
+https://drive.google.com/file/d/1esj3GE7lExF8lC3715fLW6_XHTAWq0u0/view
+
 ### Description:
 
 To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations.
